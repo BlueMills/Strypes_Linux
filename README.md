@@ -1,0 +1,2 @@
+# Strypes_Linux
+Education
